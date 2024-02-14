@@ -1,4 +1,4 @@
-# Teste_Data_Scientist-_jr
+# Teste_Data_Scientist_jr
 
 ---
 
