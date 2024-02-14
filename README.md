@@ -46,7 +46,7 @@ Você pode assumir que há aluguel de todos os tipos de carros em todas as agên
 
  
 
- Escreva o código (usando SQL; Python com Pandas ou Spark; ou R) correspondente à preparação do seguinte dataframe (ou tabela SQL) para a criação de um modelo preditivo:
+ 1) Escreva o código (usando SQL; Python com Pandas ou Spark; ou R) correspondente à preparação do seguinte dataframe (ou tabela SQL) para a criação de um modelo preditivo:
  
 
  
@@ -67,8 +67,8 @@ Você pode assumir que há aluguel de todos os tipos de carros em todas as agên
 
 
  
- Proponha conjunto de “features” adicionais que possam ajudar na previsão futura, a serem adicionadas no dataframe. Note que há uma infinidade de “features” que podem ser úteis ao se agregar as vendas por semana e ao se considerar o histórico.
+ 2) Proponha conjunto de “features” adicionais que possam ajudar na previsão futura, a serem adicionadas no dataframe. Note que há uma infinidade de “features” que podem ser úteis ao se agregar as vendas por semana e ao se considerar o histórico.
  
 
  
- Explique como faria o treinamento e o teste do modelo.
+ 3) Explique como faria o treinamento e o teste do modelo.
