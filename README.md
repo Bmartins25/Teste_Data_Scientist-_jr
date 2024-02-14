@@ -22,7 +22,8 @@ Os dados históricos de vendas estão em um arquivo CSV (ou em uma tabela SQL) c
 
 - VALOR: valor total da nota fiscal
 
- 
+
+ ----
 
  
 
@@ -38,8 +39,7 @@ A DATA pode ser assumida como um número inteiro entre 1 e 7000, onde esse núme
 
 Você pode assumir que há aluguel de todos os tipos de carros em todas as agências ao longo de todos os dias do histórico.
 
- 
-
+ ----
  
 
  Exercícios:
@@ -65,10 +65,10 @@ Você pode assumir que há aluguel de todos os tipos de carros em todas as agên
 
 - NUM_DIARIAS_SEMANA: número total de diárias vendidas na semana atual (entre DATA_REF e DATA_REF+6 dias, incluindo os limites)
 
+
  
 Proponha conjunto de “features” adicionais que possam ajudar na previsão futura, a serem adicionadas no dataframe. Note que há uma infinidade de “features” que podem ser úteis ao se agregar as vendas por semana e ao se considerar o histórico.
  
 
  
-
-* Explique como faria o treinamento e o teste do modelo.
+Explique como faria o treinamento e o teste do modelo.
